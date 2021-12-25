@@ -1,4 +1,3 @@
-# x_ad_l1st—sourced from https://github.com/SaschaWebDev/pi-hole-lg-tv-ad-#list/commit/8ed4cfaf20767f83bd41999d638763a131be13d4
  ngfts.lge.com
  lgsmartad.com
  lgad.cjpowercast.com
