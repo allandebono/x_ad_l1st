@@ -1,2 +1,23 @@
-# x_ad_l1st
-lg_adlist_
+# x_ad_l1st—sourced from https://github.com/SaschaWebDev/pi-hole-lg-tv-ad-#list/commit/8ed4cfaf20767f83bd41999d638763a131be13d4
+ ngfts.lge.com
+ lgsmartad.com
+ lgad.cjpowercast.com
+ edgesuite.net 
+ ad.lgappstv.com
+ smartclip.com
+ smartclip.net
+ smartshare.lgtvsdp.com
+ us.ibs.lgappstv.com
+ lgappstv.com
+ us.lgtvdp.com
+ lgtvdp.com
+ us.rdx2.lgtvsdp.com
+ rdx2.lgtvsdp.com
+ yumenetworks.com
+ aic-ngfts.lge.com
+ nuancemobility.net
+ fx.nvc.enus.nuancemobility.net
+ lgtvonline.lge.com
+ snu.lge.com
+ su.lge.com
+ lge.com
